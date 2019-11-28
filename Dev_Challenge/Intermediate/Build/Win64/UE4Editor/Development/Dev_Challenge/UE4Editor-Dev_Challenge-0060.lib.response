@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Dev_Challenge-0060.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\Dev_ChallengeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\ForceController.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Marble.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\MarbleSpawnController.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Dev_Challenge.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Dev_Challenge.init.gen.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\ForceController.gen.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Marble.gen.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\MarbleSpawnController.gen.cpp.obj"
+"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Default.rc2.res"
+/OUT:"E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\UE4Editor-Dev_Challenge-0060.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dev_Challenge

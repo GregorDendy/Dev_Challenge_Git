@@ -1,0 +1,2 @@
+E:\Users\Gregor\Desktop\UE4 Dev Challenge\Dev_Challenge\Intermediate\Build\Win64\UE4Editor\Development\Dev_Challenge\Definitions.Dev_Challenge.h
+e:\users\gregor\desktop\ue4 dev challenge\dev_challenge\source\dev_challenge\Dev_Challenge.h

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Dev_Challenge.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{01D85213-74C4-4F12-8C20-D6502857EB6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dev_Challenge.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Dev_ChallengeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AE93900E-125B-40B3-9A19-D04138937804}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Dev_Challenge">
+      <UniqueIdentifier>{4C1C6F5E-4453-4B78-92B0-E9577285EE31}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dev_Challenge\Dev_Challenge.Build.cs">
+      <Filter>Source\Dev_Challenge</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Dev_Challenge\Dev_Challenge.cpp">
+      <Filter>Source\Dev_Challenge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dev_Challenge\Dev_Challenge.h">
+      <Filter>Source\Dev_Challenge</Filter>
+    </ClInclude>
+    <Filter Include="Source\Dev_Challenge\Private">
+      <UniqueIdentifier>{2CB2C36A-E917-459A-95CB-50DCE0AB97DD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Dev_Challenge\Private\Marble.cpp">
+      <Filter>Source\Dev_Challenge\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Dev_Challenge\Public">
+      <UniqueIdentifier>{3DD4967D-E74B-460B-949F-72F03EF15FD6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Dev_Challenge\Public\Marble.h">
+      <Filter>Source\Dev_Challenge\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Dev_Challenge\Public\ForceController.h">
+      <Filter>Source\Dev_Challenge\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dev_Challenge\Public\MarbleSpawnController.h">
+      <Filter>Source\Dev_Challenge\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Dev_Challenge\Private\ForceController.cpp">
+      <Filter>Source\Dev_Challenge\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dev_Challenge\Private\MarbleSpawnController.cpp">
+      <Filter>Source\Dev_Challenge\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
